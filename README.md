@@ -1,6 +1,10 @@
 # Hi there 👋
 ![](https://komarev.com/ghpvc/?username=tonierbobcat)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PFEJN)
++ Hi
++ I
++ Am
+  * Bobcat!
 <!--
 **Tonierbobcat/Tonierbobcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
