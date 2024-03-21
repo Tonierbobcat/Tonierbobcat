@@ -5,9 +5,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PFEJN)
 
 + Hi
-+ I
-+ Am
-  * Bobcat!
+  * I'm
+     - Logan
 
 - 🔭 I’m currently working on ...
 
