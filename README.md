@@ -16,7 +16,7 @@
 System.out.println("Hello World!");
 ```
 ```csharp
-Console.WriteLine("Hello World!");
+Console.Write("Hello World!");
 ```
 
 <!--
