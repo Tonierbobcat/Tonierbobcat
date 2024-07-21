@@ -1,5 +1,7 @@
 # Hi there 👋
-![Bob](pic01.jpg)
+
+![pic01](https://github.com/user-attachments/assets/81ee209e-ca1a-4b77-ba83-aa4ddb97f595)
+
 ![](https://komarev.com/ghpvc/?username=tonierbobcat)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PFEJN)
