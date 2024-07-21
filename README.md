@@ -12,8 +12,8 @@
 
 - 🔭 I’m currently working on ...
 
-```
-System.out.println("Hello World"
+```java
+System.out.println("Hello World);"
 ```
 
 <!--
