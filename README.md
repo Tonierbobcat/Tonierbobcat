@@ -11,7 +11,7 @@ I am studying computer science at college, and the founder of Lofi Coffee Studio
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=.net&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java-%23F78C40?style=for-the-badge&logo=openjdk&labelColor=black)
 
-![Top Langs](https://github-readme-stats-eight-hazel-39.vercel.app/api/top-langs/?username=tonierbobcat)
+![Top Langs](https://github-readme-stats-eight-hazel-39.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut)
 
 ![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=radical)
 
