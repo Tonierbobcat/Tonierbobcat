@@ -1,7 +1,5 @@
 # Tonierbobcat
 
-![pic01](https://github.com/user-attachments/assets/81ee209e-ca1a-4b77-ba83-aa4ddb97f595)
-
 ![](https://komarev.com/ghpvc/?username=tonierbobcat) 
 
 
