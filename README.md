@@ -15,7 +15,7 @@ I am studying computer science at college, and the founder of Lofi Coffee Studio
 
 ## The Rest
 
-![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=radical)
+![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=dark)
 
 ```java
 System.out.println("Hello World!");
