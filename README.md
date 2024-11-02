@@ -12,7 +12,7 @@ I am studying computer science at college, and the founder of Lofi Coffee Studio
 ![Static Badge](https://img.shields.io/badge/Java-%23F78C40?style=for-the-badge&logo=openjdk&labelColor=black)
 
 
-![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=radical)
+![Tonierbobcat's GitHub stats](https://githuab-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=radical)
 
 ```java
 System.out.println("Hello World!");
