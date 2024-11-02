@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=tonierbobcat) 
 
 ## Skills
+![GitHub followers](https://img.shields.io/github/followers/Tonierbobcat?style=for-the-badge&logo=github)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 + Hi
   * I'm
