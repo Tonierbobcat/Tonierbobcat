@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Tonierbobcat?style=for-the-badge&logo=github) ![](https://komarev.com/ghpvc/?username=tonierbobcat&style=for-the-badge) 
 
-I am a computer science major, and the founder of Lofi Coffee Studios.
+I am studying computer science at college, and the founder of Lofi Coffee Studios.
 
 
 ## Skills
