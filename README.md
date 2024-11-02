@@ -13,6 +13,8 @@ I am studying computer science at college, and the founder of Lofi Coffee Studio
 
 ![Top Langs](https://github-readme-stats-eight-hazel-39.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut)
 
+## The Rest
+
 ![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=radical)
 
 ```java
