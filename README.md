@@ -4,6 +4,7 @@
 
 I am studying computer science at college, and the founder of Lofi Coffee Studios.
 
+![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=dark)
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/Unity-d1fdff?style=for-the-badge&logo=unity&labelColor=black)
@@ -13,9 +14,6 @@ I am studying computer science at college, and the founder of Lofi Coffee Studio
 
 ![Top Langs](https://github-readme-stats-eight-hazel-39.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut&theme=dark)
 
-## The Rest
-
-![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=dark)
 
 ```java
 System.out.println("Hello World!");
