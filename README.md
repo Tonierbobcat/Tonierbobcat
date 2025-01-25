@@ -2,7 +2,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Tonierbobcat?style=for-the-badge&logo=github) ![](https://komarev.com/ghpvc/?username=tonierbobcat&style=for-the-badge) 
 
-I am studying computer science at college. I the founder of Lofi Coffee Studios.
+I am studying computer science at college. I the founder of Lofi Coffee Studios. Freelancer at Arcane Studios and DevRoom
+
+# Freelancing
 
 ![Tonierbobcat's GitHub stats](https://github-readme-stats-eight-hazel-39.vercel.app/api?username=tonierbobcat&show_icons=true&theme=dark)
 
