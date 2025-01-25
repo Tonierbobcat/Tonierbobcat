@@ -32,6 +32,9 @@ System.out.println("Hello World!");
 ```csharp
 Console.Write("Hello World!");
 ```
+```kotlin
+println("I am learning Kotlin!")
+```
 
 &nbsp;
 &nbsp;
