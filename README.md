@@ -25,7 +25,7 @@ I develop MC plugins with SpigotAPI, PaperAPI, & BukkitAPI
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-c327e6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut&theme=dark)
+[comment]: <![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut&theme=dark)> 
 
 ```java
 System.out.println("Hello World!"); // Java
