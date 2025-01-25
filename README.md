@@ -27,13 +27,13 @@ I develop MC plugins with SpigotAPI, PaperAPI, & BukkitAPI
 
 
 ```java
-System.out.println("Hello World!");
+System.out.println("Hello World!"); // Java
 ```
 ```csharp
-Console.Write("Hello World!");
+Console.Write("Hello World!"); // C#
 ```
 ```kotlin
-println("I am learning Kotlin!")
+println("I am learning Kotlin!") // Kotlin
 ```
 
 &nbsp;
