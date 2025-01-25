@@ -4,7 +4,7 @@
 
 I am studying computer science at college. I the founder of Lofi Coffee Studios. Freelancer at Arcane Studios and DevRoom
 
-# Freelancing
+# Freelancing Quote me! /profile tonierbobcat
 
 [![dr](https://github.com/user-attachments/assets/acd17702-07a8-4888-9377-af2322e31616)](https://www.devroomteam.com/) [![as5](https://github.com/user-attachments/assets/70dd4b1f-c40e-4dea-8dbf-3d71bdb971bc)](https://discord.gg/arcanestudios)
 
