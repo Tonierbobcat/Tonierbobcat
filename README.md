@@ -22,7 +22,6 @@ I develop MC plugins with SpigotAPI, PaperAPI, & BukkitAPI
 ![Static Badge](https://img.shields.io/badge/Intellij-4232F3?style=for-the-badge&logo=intellij-idea&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=.net&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java-%23F78C40?style=for-the-badge&logo=openjdk&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/Kotlin-c327e6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)
 
 [comment]: <![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut&theme=dark)> 
