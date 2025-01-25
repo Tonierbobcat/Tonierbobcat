@@ -10,21 +10,22 @@ I freelance at ArcaneStudios & DevRoom
 I develop MC plugins with SpigotAPI, PaperAPI, & BukkitAPI
 
 ## Connections
+
 [![dr](https://github.com/user-attachments/assets/acd17702-07a8-4888-9377-af2322e31616)](https://www.devroomteam.com/) [![as5](https://github.com/user-attachments/assets/70dd4b1f-c40e-4dea-8dbf-3d71bdb971bc)](https://discord.gg/arcanestudios)
 
----
-
-![Tonierbobcat's GitHub stats](https://github-readme-stats-b5ztlghlk-logans-projects-57892250.vercel.app/api?username=tonierbobcat&show_icons=true&theme=dark)
+***
 
 # Skills
+![Static Badge](https://img.shields.io/badge/Rider-e62783?style=for-the-badge&logo=rider&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-ed8e1a?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Unity-606b80?style=for-the-badge&logo=unity&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Intellij-4232F3?style=for-the-badge&logo=intellij-idea&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=.net&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Java-%23F78C40?style=for-the-badge&logo=openjdk&labelColor=black)
 
-![Top Langs](https://github-readme-stats-b5ztlghlk-logans-projects-57892250.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut&theme=dark)
+![Static Badge](https://img.shields.io/badge/Kotlin-c327e6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonierbobcat&layout=donut&theme=dark)
 
 ```java
 System.out.println("Hello World!"); // Java
@@ -35,9 +36,6 @@ Console.Write("Hello World!"); // C#
 ```kotlin
 println("I am learning Kotlin!") // Kotlin
 ```
-
-&nbsp;
-&nbsp;
 
 # Support Me!
 
